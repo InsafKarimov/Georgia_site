@@ -1,0 +1,12 @@
+#more {
+    display: none;
+}
+.navbar-brand {
+    margin-right: 10px;
+}
+.rounder-img {
+    border-radius: 200px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.15);
+    padding: 0.6em;
+    margin-bottom: 1em;
+}
